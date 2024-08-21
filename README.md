@@ -8,7 +8,7 @@
 2. Start with an empty project and select **No** for TypeScript.
 3. Select **Yes** to install the dependencies.
 4. Select **No** to initialize a git repository.
-5. Once done, use the `cd foldername` command to go to Astro directory. Run `npm run dev` to run the development server of your Astro project.
+5. Once done, use the `cd foldername` command to go to the newly-created Astro directory. Run `npm run dev` to run the development server of your Astro project.
 6. Recreate the provided .html and .css files inside the **html** folder into Astro pages and components. For the navigation, make sure to change the `href` values from `href="contact.html"` to `href="/contact"`.
 7. Once you are done, commit and push your changes.
 
